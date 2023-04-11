@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.logo{
+    height: 90px;
+    width: 90px;
+}
+  .Cadastro{
+    color: white;
+    text-align: center;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  .login > div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+
+}
+.botão-1{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+.botão-2{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+.botão{
+    margin: 20px;
+    border-radius: 2px 2px;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+.foto{
+    width: 90px;
+    height: 90px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.parte-1{
+    text-align: center;
+    margin: 20px;
+}
+.simbolo{
+    color: red;
+    text-align: center;
+}
+.botão{
+    background-color: orangered;
+  color: white;
+}
+.oi{
+    text-align: center;
+    margin: 20px;
+}

@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.logo{
+    width: 90px;
+    height: 90px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px goldenrod;
+}
+.texto{
+    text-align: center;
+}
+.botão{
+    text-align: center;
+    margin: 20px;
+}
+.botão-1{
+    background-color: goldenrod;
+}

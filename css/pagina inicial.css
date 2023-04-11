@@ -1,0 +1,42 @@
+body{
+    background-image: url(/img/Disney.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+ }
+ .cabecalho > img{
+    height: 60px;
+    background-color: white;
+    border-radius: 50%;}
+
+    .btnEntrar{
+        text-decoration: none;
+        background-color: orange;
+        margin:2px;
+        border-radius: 5px;
+        color: black;
+        padding: 2px;
+        width: 100px;
+        text-align: center;
+    }
+        
+    
+
+    .text{
+        text-align: center;
+        color:white;
+        margin: 50px;
+
+    }
+    .Entrar{
+        text-decoration: none;
+        background-color: orange;
+        padding: 1px;
+        color: black;
+    }
+    
+    
+    
