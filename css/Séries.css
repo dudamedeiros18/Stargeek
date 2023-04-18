@@ -1,8 +1,5 @@
 body{
-    background-color: black;
-    
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color:black;
 }
 .cabecalho{
     background-color: rgb(3, 3, 3);
@@ -25,12 +22,8 @@ body{
    align-items: center;
 
  }
- .menu > li:hover {
- background-color: orange;
-
-}
  .menu > li > a {
-    color: rgb(255, 255, 255);
+    color: white;
     text-decoration: none;
     text-shadow: 2px 2px black;
     padding-right: 10px;
@@ -57,10 +50,13 @@ body{
     overflow: scroll;
 }
 h1{
-   text-align: center;
-    color: white;
-    text-shadow: 2px 2px 2px black;
+    text-align: center;
+   color: white;
 }
 .imagem::-webkit-scrollbar{
    display: none;
 }
+.menu > li:hover {
+   background-color: orange;
+  
+  }

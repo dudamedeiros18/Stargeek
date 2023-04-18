@@ -1,5 +1,5 @@
 body{
-    background-image: url(../img/o.png);
+   background-color: orange;
 }
 .cabecalho{
     background-color: rgb(3, 3, 3);
@@ -49,3 +49,14 @@ body{
     display: flex;
     overflow: scroll;
 }
+h1{
+   text-align: center;
+   color: black;
+}
+.imagem::-webkit-scrollbar{
+   display: none;
+}
+.menu > li:hover {
+   background-color: orange;
+  
+  }

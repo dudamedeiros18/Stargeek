@@ -23,4 +23,6 @@ h2{
 }
 .botão-1{
     background-color: goldenrod;
+    text-decoration: none;
+    color: white;
 }
